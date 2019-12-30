@@ -1,0 +1,31 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <AssemblyName>Urfu.Learn.Front</AssemblyName>
+    <RootNamespace>Urfu.Learn.Front</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="ClientApp\app.component.ts" />
+    <None Remove="ClientApp\app\app.module.ts" />
+    <None Remove="ClientApp\main.ts" />
+    <None Remove="ClientApp\polyfills.ts" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.SpaServices" Version="3.1.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Contracts\Contracts.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <TypeScriptCompile Include="ClientApp\app\app.component.ts" />
+    <TypeScriptCompile Include="ClientApp\app\app.module.ts" />
+    <TypeScriptCompile Include="ClientApp\main.ts" />
+    <TypeScriptCompile Include="ClientApp\polyfills.ts" />
+  </ItemGroup>
+
+</Project>
