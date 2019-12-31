@@ -1,8 +1,0 @@
-C:\Users\belykhvd\Desktop\VKR_backend\VKRBackend\Contracts\bin\Debug\netstandard2.0\Contracts.deps.json
-C:\Users\belykhvd\Desktop\VKR_backend\VKRBackend\Contracts\bin\Debug\netstandard2.0\Contracts.dll
-C:\Users\belykhvd\Desktop\VKR_backend\VKRBackend\Contracts\bin\Debug\netstandard2.0\Contracts.pdb
-C:\Users\belykhvd\Desktop\VKR_backend\VKRBackend\Contracts\obj\Debug\netstandard2.0\Contracts.csprojAssemblyReference.cache
-C:\Users\belykhvd\Desktop\VKR_backend\VKRBackend\Contracts\obj\Debug\netstandard2.0\Contracts.AssemblyInfoInputs.cache
-C:\Users\belykhvd\Desktop\VKR_backend\VKRBackend\Contracts\obj\Debug\netstandard2.0\Contracts.AssemblyInfo.cs
-C:\Users\belykhvd\Desktop\VKR_backend\VKRBackend\Contracts\obj\Debug\netstandard2.0\Contracts.dll
-C:\Users\belykhvd\Desktop\VKR_backend\VKRBackend\Contracts\obj\Debug\netstandard2.0\Contracts.pdb

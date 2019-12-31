@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29609.76
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Urfu.Learn.Front", "VKRBackend\Urfu.Learn.Front.csproj", "{617BD6B0-7ED9-43FE-9766-DA986EA58C54}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Urfu.Learn.Front", "Urfu.Learn.Front\Urfu.Learn.Front.csproj", "{617BD6B0-7ED9-43FE-9766-DA986EA58C54}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Contracts", "Contracts\Contracts.csproj", "{52C6152B-A930-4032-8455-C26F123ADB4E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Urfu.Learn.Contracts", "Urfu.Learn.Contracts\Urfu.Learn.Contracts.csproj", "{52C6152B-A930-4032-8455-C26F123ADB4E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Urfu.Learn.Backend", "Vkr.Api\Urfu.Learn.Backend.csproj", "{AD9DB7AF-3675-48F6-95A3-453C47962A7F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Urfu.Learn.Backend", "Urfu.Learn.Backend\Urfu.Learn.Backend.csproj", "{AD9DB7AF-3675-48F6-95A3-453C47962A7F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

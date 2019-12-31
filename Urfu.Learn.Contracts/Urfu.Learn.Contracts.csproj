@@ -1,0 +1,9 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <AssemblyName>Urfu.Learn.Contracts</AssemblyName>
+    <RootNamespace>Urfu.Learn.Contracts</RootNamespace>
+  </PropertyGroup>
+
+</Project>
